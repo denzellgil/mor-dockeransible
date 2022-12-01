@@ -1,0 +1,8 @@
+---
+# vars file for busybox
+
+container:
+ container_count: 1
+ default_container_name: busybox
+ default_container_image: busybox
+ default_container_command: run
